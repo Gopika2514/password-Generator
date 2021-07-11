@@ -17,6 +17,7 @@ function userPrompt() {
 
   var length = prompt(
     "How many characters would you like your password to be?"
+
   );
   length = parseInt(length);
 
